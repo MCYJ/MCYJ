@@ -13,5 +13,6 @@ Incheon National University Computer Engineering (21.03~) <br>
 Incheon Electronic Meister High School (15.03~18.01)
 
 ## Career
-Huneed Technologies Quality (18.02~22.02)
+Samsung Electronics - Device Lab (22.05 ~ recent)
+Huneed Technologies - Quality Assurance (18.02 ~ 22.02)
 
