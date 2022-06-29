@@ -9,10 +9,10 @@ https://mcyj.github.io/
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MCYJ&layout=compact)
 
 ## Academic
-Incheon National University Computer Engineering (21.03~) <br>
+<b>Incheon National University Computer Engineering (21.03~)</b> <br>
 Incheon Electronic Meister High School (15.03~18.01)
 
 ## Career
-Samsung Electronics - Device Lab (22.05 ~ recent)
+<b>Samsung Electronics - Device Lab (22.05 ~ recent)</b> <br>
 Huneed Technologies - Quality Assurance (18.02 ~ 22.02)
 
