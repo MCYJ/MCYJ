@@ -12,7 +12,7 @@ https://mcyj.github.io/
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br><br>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MCYJ&layout=compact)
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MCYJ&layout=compact) -->
 
 
 ## Academic
