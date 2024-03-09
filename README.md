@@ -16,7 +16,7 @@ https://mcyj.github.io/
 
 
 ## Academic
-<b>Incheon National University - Computer Engineering (21.03 ~ recent)</b> <br>
+<b>Incheon National University - Computer Engineering (21.03 ~ 25.02)</b> <br>
 Incheon Electronic Meister High School - Electrical Engineering (15.03 ~ 18.01)
 
 ## Career
