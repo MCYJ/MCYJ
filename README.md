@@ -7,6 +7,8 @@ Incheon Electronic Meister High School - Electrical Engineering (15.03 ~ 18.01)
 Huneed Technologies - Quality Assurance (18.02 ~ 22.02)
 
 ## Honors & Awards
+<b>인천대학교 코드페스티벌2024 동상 수상 24.09.26</b>
+
 <b>인천대학교 컴퓨터공학부 졸업작품(캡스톤프로젝트) 수상 24.05.31</b>
 <br>
 - 수상작: GreenWalk (팀명: Codehanzoom, 코드한줌)
