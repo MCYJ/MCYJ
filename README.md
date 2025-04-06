@@ -7,9 +7,9 @@ Huneed Technologies - Quality Assurance (18.02 ~ 22.02)
 
 ## Academic
 <img src="./img/inu.png" width=25px height=25px>
-<b>Incheon National University - Computer Engineering (21.03 ~ 25.02)</b> <br>
+<b>Incheon National University - Computer Engineering</b> <br>
 <img src="./img/iemh.png" width=25px height=25px>
-Incheon Electronic Meister High School - Electrical Engineering (15.03 ~ 18.01)
+Incheon Electronic Meister High School - Electrical Engineering
 
 ## Study
 <b>DUJJEX (Samsung internal Group)</b><br>
