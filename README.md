@@ -11,10 +11,6 @@ Huneed Technologies - Quality Assurance (18.02 ~ 22.02)
 <img src="./img/iemh.png" width=25px height=25px>
 Incheon Electronic Meister High School - Electrical Engineering
 
-## Study
-<b>DUJJEX (Samsung internal Group)</b><br>
-- n8n(web code automation tool) development using TS, nodejs, Docker
-
 ## Honors & Awards
 <b>삼성전자 SAIT 2024 DX Hackathon Consest 우승 (1st grade) 24.12.12</b>
 
